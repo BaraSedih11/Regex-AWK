@@ -1,0 +1,9 @@
+firstname lastname city age deposit
+Herman   Sanchez Miami   52 9300
+Phil Parker Miami 45    5010
+Bradie   Garnett  Denver 36   6300
+Rudolf  Crooks Miami 33 5800
+Marcos Miller      Seattle 66 4300
+Chad Garnett   Miami   38 7420
+Sally     Evans Denver 25   3170
+Chad    Parker Seattle    55 12600
